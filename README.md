@@ -27,14 +27,14 @@ Welcome to your friendly guide to understanding LeetCode problems! This reposito
 ## 1. Clone the repository
 - Remember to change yourusername down this.
 ```
-git clone git@github.com:yourusername/LeetCode-Array-Answers-Python3.git
+git clone git@github.com:acheronx0577/LeetCode-String-Answers-Python3.git
 ```
 ## 2. Navigate to the project
 ```
 ls
 ```
 ```
-cd LeetCode-Array-Answers-Python3
+cd LeetCode-String-Answers-Python3
 ```
 ## 3. Make a new branch
 ```
