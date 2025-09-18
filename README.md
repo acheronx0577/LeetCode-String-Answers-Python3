@@ -42,7 +42,7 @@ git checkout -b "Your Branch Name HERE"
 ```
 ## 4. Run a solution
 ```
-py two_sum.py
+py 125.Valid_Palindrome.py
 ```
 ## 5. Make your changes and save it
 ```
